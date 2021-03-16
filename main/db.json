@@ -1,0 +1,19 @@
+{
+	"heroes":[
+	{
+		"id":1,
+		"nom":"Superman",
+		"puissance":99,
+		"description":"Point faible:trop fort"
+	},
+	{
+		"id":2,
+		"nom":"Batman",
+		"puissance":100,
+		"description":"Point fort:trop faible"
+	}
+	
+	]
+
+
+}
